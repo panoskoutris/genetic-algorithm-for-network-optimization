@@ -8,7 +8,7 @@ lower_bounds = zeros(1, 17);
 upper_bounds = [54.13, 21.56, 34.08, 49.19, 33.03, 21.84, 29.96, 24.87, ...
       47.24, 33.97, 26.89, 32.76, 39.98, 37.12, 53.83, 61.65, 59.73] * 0.999; % Adjusted upper bounds
 
-%% **Define Equality Constraints (Aeq * x = beq)**
+% Define Equality Constraints (Aeq * x = beq)
 % Conservation of flow at each node (9 nodes)
 Aeq = [
     -1, -1, -1, -1, 0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0;   % Node 1 (entry)
@@ -61,7 +61,7 @@ for i = 1:length(V)
     close(gcf); % Close the figure to avoid excessive figures opening
 end
 
-%% **Display Final Results**
+% Display Final Results
 fprintf("\nOptimization Completed!\n");
 disp("Final Results:");
 disp(x);
