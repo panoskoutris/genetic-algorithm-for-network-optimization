@@ -38,7 +38,7 @@ Where:
 
 The total network cost is:
 
-f(x) = sum over i of x_i * T_i(x_i)
+f(x) = ∑ᵢ xᵢ · Tᵢ(xᵢ)
 
 
 ---
