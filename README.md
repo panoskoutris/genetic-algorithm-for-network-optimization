@@ -92,10 +92,12 @@ genetic-algorithm-for-network-optimization
 ---
 
 ## ✍️ Author
+
 **Panagiotis Koutris**  
 Student at AUTH – School of Electrical & Computer Engineering
 
 ---
 
 ## 📄 License
-MIT License
+
+Licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.html).
