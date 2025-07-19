@@ -48,8 +48,8 @@ f(x) = ∑ᵢ xᵢ · Tᵢ(xᵢ)
 We solve the nonlinear constrained optimization problem using MATLAB’s built-in **Genetic Algorithm (`ga`)**. This choice is robust to local minima and does not require gradient information.
 
 ### ✅ Constraints
-- Linear equality constraints: \( A_{eq} \cdot x = b_{eq} \)
-- Bound constraints: \( 0 \leq x_i \leq c_i \)
+- Linear equality constraints: **Aₑq · x = bₑq**
+- Bound constraints: **0 ≤ xᵢ ≤ cᵢ**
 - Flow conservation is built into `Aeq`, `beq`
 
 ---
