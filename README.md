@@ -2,7 +2,7 @@
 
 Optimization of traffic flow in a road network using **MATLAB’s Genetic Algorithm**, applied to a nonlinear objective function with flow conservation and capacity constraints.
 
-Developed as a standalone project for the course **Optimization Techniques** at the Aristotle University of Thessaloniki (AUTH), School of Electrical & Computer Engineering.
+Developed as part of the course **Optimization Techniques** at the Aristotle University of Thessaloniki (AUTH), School of Electrical & Computer Engineering.
 
 ---
 
