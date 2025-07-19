@@ -73,7 +73,7 @@ genetic-algorithm-for-network-optimization
 ├── src/
 │ ├── travel_time_objective.m # Objective function f(x)
 │ ├── optimize_flow_baseline.m # GA run for V = 100
-│ └──  optimize_flow_variable_V.m # GA runs for V ∈ {85, 95, 105, 115}
+│ └── optimize_flow_variable_V.m # GA runs for V ∈ {85, 95, 105, 115}
 ├── images/
 │ ├── network_diagram.png # Network structure
 │ └── Ti(xi).png # Travel time function 
