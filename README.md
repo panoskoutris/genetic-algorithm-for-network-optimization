@@ -16,7 +16,7 @@ A traffic network with **9 intersections (nodes)** and **17 roads (edges)** is m
 
 ---
 
-## 🗺 Network Diagram
+## Network Diagram
 
 ![Traffic Network](images/network_diagram.png)
 
